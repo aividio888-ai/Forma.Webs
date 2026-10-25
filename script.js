@@ -32,7 +32,6 @@ const briefTranslations = {
     formBudgetHint: "Можна приблизно або діапазоном. Це допоможе запропонувати рішення, яке вам підійде.",
     formExtra: "Чи є ще щось, про що ми не спитали?", formConsent: "Я погоджуюсь на обробку персональних даних для відповіді на мій запит.",
     formBack: "← Назад", formNext: "Далі →", formSubmit: "Надіслати бриф ↗",
-    formDisclaimer: "Заявки надсилаються через Formspree. Переконайтеся, що адресу отримувача підтверджено у вашому акаунті Formspree.",
     formInvalid: "Перевірте обов’язкові поля, будь ласка.", formEndpointMissing: "Надсилання ще не налаштоване. Заявку не надіслано — підключимо отримувача, коли ви надасте адресу.",
     formSendSuccess: "Заявку надіслано. Дякуємо! Ми зв’яжемося з вами.", formSendError: "Не вдалося надіслати заявку. Спробуйте ще раз або напишіть нам напряму."
   },
@@ -69,7 +68,6 @@ const briefTranslations = {
     formBudgetHint: "An estimate or range is fine. It helps us suggest a suitable solution.",
     formExtra: "Anything else we should know?", formConsent: "I agree to the processing of my personal data so you can respond to my enquiry.",
     formBack: "← Back", formNext: "Next →", formSubmit: "Send brief ↗",
-    formDisclaimer: "Enquiries are sent via Formspree. Make sure the recipient address is verified in your Formspree account.",
     formInvalid: "Please check the required fields.", formEndpointMissing: "Sending isn't configured yet. Your enquiry was not sent; we'll connect the recipient once you provide the email address.",
     formSendSuccess: "Your enquiry has been sent. Thank you! We'll be in touch.", formSendError: "We couldn't send your enquiry. Please try again or contact us directly."
   },
@@ -106,7 +104,6 @@ const briefTranslations = {
     formBudgetHint: "Eine grobe Schätzung oder Spanne genügt. So können wir eine passende Lösung vorschlagen.",
     formExtra: "Gibt es noch etwas, das wir wissen sollten?", formConsent: "Ich stimme der Verarbeitung meiner personenbezogenen Daten zu, damit Sie meine Anfrage beantworten können.",
     formBack: "← Zurück", formNext: "Weiter →", formSubmit: "Briefing senden ↗",
-    formDisclaimer: "Anfragen werden über Formspree gesendet. Bitte stellen Sie sicher, dass die Empfängeradresse in Ihrem Formspree-Konto bestätigt ist.",
     formInvalid: "Bitte prüfen Sie die Pflichtfelder.", formEndpointMissing: "Der Versand ist noch nicht eingerichtet. Ihre Anfrage wurde nicht gesendet; den Empfänger richten wir ein, sobald Sie die E-Mail-Adresse mitteilen.",
     formSendSuccess: "Ihre Anfrage wurde gesendet. Vielen Dank! Wir melden uns bei Ihnen.", formSendError: "Ihre Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut oder kontaktieren Sie uns direkt."
   }
